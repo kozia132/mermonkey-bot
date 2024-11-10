@@ -28,3 +28,7 @@ run the script through vscode
 
 terminate the script by pressing ctrl+c in the vscode terminal or by just closing vscode that works too
 
+
+
+theres a pyinstaller exe file that you could try to use if u dont wanna go through the hassle of setting up vscode n stuff but i havent tried it so idk if it works like at all
+
