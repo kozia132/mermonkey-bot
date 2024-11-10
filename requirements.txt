@@ -1,0 +1,3 @@
+PyAutoGui
+PyDirectInput
+PyWin32
