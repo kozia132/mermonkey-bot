@@ -18,7 +18,7 @@ install python 3.9 (any version of python 3 should work but i personally used 3.
 
 open a command prompt as admin and navigate to the folder
 
-run `pip install requirements.txt`
+run `pip install -r requirements.txt`
 
 open the folder in vscode cause i couldnt get it to work correctly just running the script by itself
 
